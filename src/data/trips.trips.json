@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "67882999f6d32282847c4483"
+  },
+  "name": "Zomer Vakantie",
+  "destination": "Barcelona",
+  "information": "Gezinsvakantie in de zomer van 2025",
+  "expenses": [
+    {
+      "$oid": "67882b3222efa0660bd17ee1"
+    },
+    {
+      "$oid": "67882b63c138ba193fba7756"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-15T21:33:13.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67883283fc93dfdec22d157b"
+  },
+  "name": "Zomer Vakantie 2",
+  "destination": "Barcelona",
+  "information": "Gezinsvakantie in de zomer van 2025",
+  "expenses": [
+    {
+      "$oid": "6788329bfc93dfdec22d1581"
+    },
+    {
+      "$oid": "678832a0fc93dfdec22d1584"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-15T22:11:15.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67883287fc93dfdec22d157d"
+  },
+  "name": "Zomer Vakantie 3",
+  "destination": "Barcelona",
+  "information": "Gezinsvakantie in de zomer van 2025",
+  "expenses": [
+    {
+      "$oid": "678832acfc93dfdec22d1587"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-15T22:11:19.417Z"
+  },
+  "__v": 0
+}]

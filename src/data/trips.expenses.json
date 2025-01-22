@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "67882a2672455552dd976aee"
+  },
+  "description": "Hotelovernachting",
+  "amount": 120,
+  "date": "2025-01-15T20:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "67882b3222efa0660bd17ee1"
+  },
+  "description": "Diner in een lokaal restaurant",
+  "amount": 60.75,
+  "date": {
+    "$date": "2025-01-15T21:40:02.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67882b63c138ba193fba7756"
+  },
+  "description": "eten",
+  "amount": 123,
+  "date": {
+    "$date": "2025-01-15T21:40:51.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6788329bfc93dfdec22d1581"
+  },
+  "description": "eten test 2",
+  "amount": 123,
+  "date": {
+    "$date": "2025-01-15T22:11:39.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678832a0fc93dfdec22d1584"
+  },
+  "description": "eten test 3",
+  "amount": 123,
+  "date": {
+    "$date": "2025-01-15T22:11:44.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678832acfc93dfdec22d1587"
+  },
+  "description": "eten test 4",
+  "amount": 123,
+  "date": {
+    "$date": "2025-01-15T22:11:56.091Z"
+  },
+  "__v": 0
+}]
